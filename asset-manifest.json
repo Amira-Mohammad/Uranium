@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Master-class/static/css/main.e4da809e.chunk.css",
-    "main.js": "/Master-class/static/js/main.eb49c044.chunk.js",
-    "main.js.map": "/Master-class/static/js/main.eb49c044.chunk.js.map",
-    "runtime-main.js": "/Master-class/static/js/runtime-main.77e39293.js",
-    "runtime-main.js.map": "/Master-class/static/js/runtime-main.77e39293.js.map",
-    "static/css/2.0624914a.chunk.css": "/Master-class/static/css/2.0624914a.chunk.css",
-    "static/js/2.f1a143ee.chunk.js": "/Master-class/static/js/2.f1a143ee.chunk.js",
-    "static/js/2.f1a143ee.chunk.js.map": "/Master-class/static/js/2.f1a143ee.chunk.js.map",
-    "index.html": "/Master-class/index.html",
-    "precache-manifest.78f70bfe52525742bedc41945ab01c64.js": "/Master-class/precache-manifest.78f70bfe52525742bedc41945ab01c64.js",
-    "service-worker.js": "/Master-class/service-worker.js",
-    "static/css/2.0624914a.chunk.css.map": "/Master-class/static/css/2.0624914a.chunk.css.map",
-    "static/css/main.e4da809e.chunk.css.map": "/Master-class/static/css/main.e4da809e.chunk.css.map",
-    "static/media/MoreDetails.css": "/Master-class/static/media/WOLFGANG PUCK.8b40a084.jpg"
+    "main.css": "/uranium/static/css/main.c63fd4ab.chunk.css",
+    "main.js": "/uranium/static/js/main.ea7eaf8d.chunk.js",
+    "main.js.map": "/uranium/static/js/main.ea7eaf8d.chunk.js.map",
+    "runtime-main.js": "/uranium/static/js/runtime-main.9d099519.js",
+    "runtime-main.js.map": "/uranium/static/js/runtime-main.9d099519.js.map",
+    "static/css/2.0624914a.chunk.css": "/uranium/static/css/2.0624914a.chunk.css",
+    "static/js/2.f1a143ee.chunk.js": "/uranium/static/js/2.f1a143ee.chunk.js",
+    "static/js/2.f1a143ee.chunk.js.map": "/uranium/static/js/2.f1a143ee.chunk.js.map",
+    "index.html": "/uranium/index.html",
+    "precache-manifest.c1f13cda46d5b579228d998a65d7838d.js": "/uranium/precache-manifest.c1f13cda46d5b579228d998a65d7838d.js",
+    "service-worker.js": "/uranium/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/uranium/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.c63fd4ab.chunk.css.map": "/uranium/static/css/main.c63fd4ab.chunk.css.map",
+    "static/media/MoreDetails.css": "/uranium/static/media/WOLFGANG PUCK.8b40a084.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.77e39293.js",
+    "static/js/runtime-main.9d099519.js",
     "static/css/2.0624914a.chunk.css",
     "static/js/2.f1a143ee.chunk.js",
-    "static/css/main.e4da809e.chunk.css",
-    "static/js/main.eb49c044.chunk.js"
+    "static/css/main.c63fd4ab.chunk.css",
+    "static/js/main.ea7eaf8d.chunk.js"
   ]
 }
