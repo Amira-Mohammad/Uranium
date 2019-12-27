@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Master-class/static/css/main.e4da809e.chunk.css",
+    "main.js": "/Master-class/static/js/main.eb49c044.chunk.js",
+    "main.js.map": "/Master-class/static/js/main.eb49c044.chunk.js.map",
+    "runtime-main.js": "/Master-class/static/js/runtime-main.77e39293.js",
+    "runtime-main.js.map": "/Master-class/static/js/runtime-main.77e39293.js.map",
+    "static/css/2.0624914a.chunk.css": "/Master-class/static/css/2.0624914a.chunk.css",
+    "static/js/2.f1a143ee.chunk.js": "/Master-class/static/js/2.f1a143ee.chunk.js",
+    "static/js/2.f1a143ee.chunk.js.map": "/Master-class/static/js/2.f1a143ee.chunk.js.map",
+    "index.html": "/Master-class/index.html",
+    "precache-manifest.78f70bfe52525742bedc41945ab01c64.js": "/Master-class/precache-manifest.78f70bfe52525742bedc41945ab01c64.js",
+    "service-worker.js": "/Master-class/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/Master-class/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.e4da809e.chunk.css.map": "/Master-class/static/css/main.e4da809e.chunk.css.map",
+    "static/media/MoreDetails.css": "/Master-class/static/media/WOLFGANG PUCK.8b40a084.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77e39293.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.f1a143ee.chunk.js",
+    "static/css/main.e4da809e.chunk.css",
+    "static/js/main.eb49c044.chunk.js"
+  ]
+}
