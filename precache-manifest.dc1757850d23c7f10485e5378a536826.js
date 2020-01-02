@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79c7f8f21802480b358b49a74a709b59",
+    "revision": "35963a647ba8498e747260abe6151fa8",
     "url": "/uranium/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uranium/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "4610799e45cd0271bf2f",
+    "revision": "b6e933c4713006a0a7b6",
     "url": "/uranium/static/css/main.c63fd4ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/uranium/static/js/2.f1a143ee.chunk.js"
   },
   {
-    "revision": "4610799e45cd0271bf2f",
-    "url": "/uranium/static/js/main.ea7eaf8d.chunk.js"
+    "revision": "b6e933c4713006a0a7b6",
+    "url": "/uranium/static/js/main.e1deb7c0.chunk.js"
   },
   {
     "revision": "f7df6fbc073d3cfad822",
